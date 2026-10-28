@@ -5,3 +5,5 @@ Altura: 1,78cm
 Peso: 76,24kg
 Sexo: Feminino
 Personalidade: Animada e Curiosa
+
+obs: e  meu tipo de mulher
